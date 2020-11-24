@@ -1,0 +1,10 @@
+Fruits
+Vegetables
+Toothpaste
+Sugar
+Rice
+Cold Drink
+Clothes
+Footwear
+Biscuits
+Chocolates
